@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaramellBrownie
+Hi there, I'm Matze - aka KaramellBrownie 👋
 - 👀 I’m interested in lerning new stuff
 - 🌱 I’m currently learning Java
 
